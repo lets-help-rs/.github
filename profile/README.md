@@ -16,7 +16,7 @@ Em tempos de crise, a agilidade e a clareza na comunicação de onde e como ajud
 ## Tecnologias Utilizadas
 - React
 - React Leaflet
-- SWR
+- React Query
 - NestJS
 - Prisma
 - Postgres
